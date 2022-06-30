@@ -1,0 +1,5 @@
+ui\ConstructorTest.class
+steps\Steps.class
+ui\RegisterUserTest.class
+ui\LoginUserTest.class
+ui\AccountTest.class
