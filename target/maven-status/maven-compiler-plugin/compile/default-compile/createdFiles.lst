@@ -1,0 +1,7 @@
+client\api.class
+ui\RegistrationPage.class
+ui\LoginPage.class
+ui\RestorePage.class
+ui\MainPage.class
+model\User.class
+ui\AccountPage.class
